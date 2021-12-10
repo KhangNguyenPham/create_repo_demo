@@ -1,2 +1,7 @@
 git commit and push
+<<<<<<< HEAD
 This is message from user1
+=======
+This is message from user 2
+>>>>>>> b609d33ed262a73a3be823367c3637dc3cc61c35
+This is message from user 1
